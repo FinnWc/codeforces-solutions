@@ -1,0 +1,15 @@
+{
+  "submission_id": 356917386,
+  "contest_id": 652666,
+  "problem_index": "A",
+  "problem_name": "Balanced Array",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1767857949,
+  "original_submission_time_utc": "2026-01-08T07:39:09Z",
+  "imported_at_utc": "2026-11-24T05:38:48Z",
+  "submission_url": "https://codeforces.com/gym/652666/submission/356917386",
+  "problem_url": "https://codeforces.com/gym/652666/problem/A",
+  "source_file": "Main.java",
+  "source_sha256": "6646e75404dd2cfd83db3d7f1395fb13dd8d2fdf71a1963b84e0c93e39946b86"
+}
