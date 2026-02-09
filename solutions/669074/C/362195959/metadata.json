@@ -1,0 +1,15 @@
+{
+  "submission_id": 362195959,
+  "contest_id": 669074,
+  "problem_index": "C",
+  "problem_name": "Coloring Rectangles",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1770680129,
+  "original_submission_time_utc": "2026-02-09T23:35:29Z",
+  "imported_at_utc": "2026-11-24T05:38:49Z",
+  "submission_url": "https://codeforces.com/gym/669074/submission/362195959",
+  "problem_url": "https://codeforces.com/gym/669074/problem/C",
+  "source_file": "Main.java",
+  "source_sha256": "59ea7781cb59f628d7d023095cf7ba37fa22514187807a43db910899bdb04c92"
+}
