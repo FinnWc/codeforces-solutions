@@ -1,0 +1,15 @@
+{
+  "submission_id": 363216818,
+  "contest_id": 670822,
+  "problem_index": "A",
+  "problem_name": "Max Plus Size",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1771190375,
+  "original_submission_time_utc": "2026-02-15T21:19:35Z",
+  "imported_at_utc": "2026-11-24T05:38:49Z",
+  "submission_url": "https://codeforces.com/gym/670822/submission/363216818",
+  "problem_url": "https://codeforces.com/gym/670822/problem/A",
+  "source_file": "A_Max_Plus_Size.java",
+  "source_sha256": "5a90aa1b5af1ede6486c79407d75a072df225fda079868e8f08b55176f00281d"
+}
