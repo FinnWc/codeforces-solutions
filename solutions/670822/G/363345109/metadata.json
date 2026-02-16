@@ -1,0 +1,15 @@
+{
+  "submission_id": 363345109,
+  "contest_id": 670822,
+  "problem_index": "G",
+  "problem_name": "Journey Planning",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1771285401,
+  "original_submission_time_utc": "2026-02-16T23:43:21Z",
+  "imported_at_utc": "2026-11-24T05:38:50Z",
+  "submission_url": "https://codeforces.com/gym/670822/submission/363345109",
+  "problem_url": "https://codeforces.com/gym/670822/problem/G",
+  "source_file": "G_Journey_Planning.java",
+  "source_sha256": "a3b4c9cdb666812ef526cefd14e9616064fa6a6a22a1414dc2950ad8bf292113"
+}
