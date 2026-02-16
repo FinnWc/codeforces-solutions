@@ -1,0 +1,15 @@
+{
+  "submission_id": 363226494,
+  "contest_id": 670822,
+  "problem_index": "C",
+  "problem_name": "Pushing Balls",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1771207004,
+  "original_submission_time_utc": "2026-02-16T01:56:44Z",
+  "imported_at_utc": "2026-11-24T05:38:50Z",
+  "submission_url": "https://codeforces.com/gym/670822/submission/363226494",
+  "problem_url": "https://codeforces.com/gym/670822/problem/C",
+  "source_file": "C_Pushing_Balls.java",
+  "source_sha256": "882873adea20afe2e0118b87c36e109925ef7e67d1eea5f99c1166270be18c7c"
+}
