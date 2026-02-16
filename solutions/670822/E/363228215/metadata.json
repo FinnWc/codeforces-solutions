@@ -1,0 +1,15 @@
+{
+  "submission_id": 363228215,
+  "contest_id": 670822,
+  "problem_index": "E",
+  "problem_name": "Even-Odd Game",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1771209697,
+  "original_submission_time_utc": "2026-02-16T02:41:37Z",
+  "imported_at_utc": "2026-11-24T05:38:50Z",
+  "submission_url": "https://codeforces.com/gym/670822/submission/363228215",
+  "problem_url": "https://codeforces.com/gym/670822/problem/E",
+  "source_file": "E_Even_Odd_Game.java",
+  "source_sha256": "52e57d91b5a107f8bbcd98de660c39d36190d138fef9dcfec8ea01313cf15842"
+}
