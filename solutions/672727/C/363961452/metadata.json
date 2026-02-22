@@ -1,0 +1,15 @@
+{
+  "submission_id": 363961452,
+  "contest_id": 672727,
+  "problem_index": "C",
+  "problem_name": "Badge",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1771791724,
+  "original_submission_time_utc": "2026-02-22T20:22:04Z",
+  "imported_at_utc": "2026-11-24T05:38:51Z",
+  "submission_url": "https://codeforces.com/gym/672727/submission/363961452",
+  "problem_url": "https://codeforces.com/gym/672727/problem/C",
+  "source_file": "C_Badge.java",
+  "source_sha256": "f6e7da5338c918e8e039d398b8f65c878929b1478a7f47e0a2c9e750b4d98de6"
+}
