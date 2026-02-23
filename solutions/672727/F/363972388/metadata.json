@@ -1,0 +1,15 @@
+{
+  "submission_id": 363972388,
+  "contest_id": 672727,
+  "problem_index": "F",
+  "problem_name": "White-Black Balanced Subtrees",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1771807238,
+  "original_submission_time_utc": "2026-02-23T00:40:38Z",
+  "imported_at_utc": "2026-11-24T05:38:52Z",
+  "submission_url": "https://codeforces.com/gym/672727/submission/363972388",
+  "problem_url": "https://codeforces.com/gym/672727/problem/F",
+  "source_file": "F_White_Black_Balanced_Subtrees.java",
+  "source_sha256": "f348f07607cb573e073ec5f9ddca79b1e82d6ffe7d1197a3667642708f77b002"
+}
