@@ -1,0 +1,15 @@
+{
+  "submission_id": 364260901,
+  "contest_id": 674246,
+  "problem_index": "B",
+  "problem_name": "Planets",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1771994287,
+  "original_submission_time_utc": "2026-02-25T04:38:07Z",
+  "imported_at_utc": "2026-11-24T05:38:52Z",
+  "submission_url": "https://codeforces.com/gym/674246/submission/364260901",
+  "problem_url": "https://codeforces.com/gym/674246/problem/B",
+  "source_file": "B_Planets.java",
+  "source_sha256": "080bb57ab753f9757c7cdb2aa15e05a52ad744420fcf405d3e4a79e7227f9f7f"
+}
