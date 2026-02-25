@@ -1,0 +1,15 @@
+{
+  "submission_id": 364406434,
+  "contest_id": 674246,
+  "problem_index": "C",
+  "problem_name": "Odd Queries",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1772055994,
+  "original_submission_time_utc": "2026-02-25T21:46:34Z",
+  "imported_at_utc": "2026-11-24T05:38:52Z",
+  "submission_url": "https://codeforces.com/gym/674246/submission/364406434",
+  "problem_url": "https://codeforces.com/gym/674246/problem/C",
+  "source_file": "C_Odd_Queries.java",
+  "source_sha256": "542e454ad41027aacb3ad06695709f2221b37f097971c16adbaa3db87e9addc5"
+}
