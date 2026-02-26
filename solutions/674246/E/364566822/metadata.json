@@ -1,0 +1,15 @@
+{
+  "submission_id": 364566822,
+  "contest_id": 674246,
+  "problem_index": "E",
+  "problem_name": "Matrix Stabilization",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1772142575,
+  "original_submission_time_utc": "2026-02-26T21:49:35Z",
+  "imported_at_utc": "2026-11-24T05:38:53Z",
+  "submission_url": "https://codeforces.com/gym/674246/submission/364566822",
+  "problem_url": "https://codeforces.com/gym/674246/problem/E",
+  "source_file": "E_Matrix_Stabilization.java",
+  "source_sha256": "e5515d2185eb3a0756ebe7a86ac9d3a2ea3c44a475da124c4571c790ef54d27f"
+}
