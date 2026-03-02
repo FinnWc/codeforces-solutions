@@ -1,0 +1,15 @@
+{
+  "submission_id": 365149843,
+  "contest_id": 674246,
+  "problem_index": "I",
+  "problem_name": "Remove Two Letters",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1772489384,
+  "original_submission_time_utc": "2026-03-02T22:09:44Z",
+  "imported_at_utc": "2026-11-24T05:38:53Z",
+  "submission_url": "https://codeforces.com/gym/674246/submission/365149843",
+  "problem_url": "https://codeforces.com/gym/674246/problem/I",
+  "source_file": "I_Remove_Two_Letters.java",
+  "source_sha256": "4b71855c945ad4d0cbe1a91f8a957e11e00470372bb67c5774775b02a8b01fd0"
+}
