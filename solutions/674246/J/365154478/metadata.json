@@ -1,0 +1,15 @@
+{
+  "submission_id": 365154478,
+  "contest_id": 674246,
+  "problem_index": "J",
+  "problem_name": "Delete Two Elements",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1772495549,
+  "original_submission_time_utc": "2026-03-02T23:52:29Z",
+  "imported_at_utc": "2026-11-24T05:38:54Z",
+  "submission_url": "https://codeforces.com/gym/674246/submission/365154478",
+  "problem_url": "https://codeforces.com/gym/674246/problem/J",
+  "source_file": "J_Delete_Two_Elements.java",
+  "source_sha256": "748c6b3ecbee495b1935b29cdd7f535041fb08bf9128f50ca29ea7a36202bf4f"
+}
