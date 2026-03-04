@@ -1,0 +1,15 @@
+{
+  "submission_id": 365299735,
+  "contest_id": 675940,
+  "problem_index": "C",
+  "problem_name": "AB Flipping",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1772600901,
+  "original_submission_time_utc": "2026-03-04T05:08:21Z",
+  "imported_at_utc": "2026-11-24T05:38:55Z",
+  "submission_url": "https://codeforces.com/gym/675940/submission/365299735",
+  "problem_url": "https://codeforces.com/gym/675940/problem/C",
+  "source_file": "C_AB_Flipping.java",
+  "source_sha256": "7d43ad2545c7846e59423eb411cd31d1902d1d8c6bd9ffb36f324b3bf446095c"
+}
