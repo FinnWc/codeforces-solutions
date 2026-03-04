@@ -1,0 +1,15 @@
+{
+  "submission_id": 365399922,
+  "contest_id": 675940,
+  "problem_index": "D",
+  "problem_name": "Digits Sequence Dividing",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1772660654,
+  "original_submission_time_utc": "2026-03-04T21:44:14Z",
+  "imported_at_utc": "2026-11-24T05:38:55Z",
+  "submission_url": "https://codeforces.com/gym/675940/submission/365399922",
+  "problem_url": "https://codeforces.com/gym/675940/problem/D",
+  "source_file": "D_Digits_Sequence_Dividing.java",
+  "source_sha256": "13b6dd4434fa470d65c1ca6715b10900d3f48d1d3b6a765e0ff79ea7d6e562b7"
+}
