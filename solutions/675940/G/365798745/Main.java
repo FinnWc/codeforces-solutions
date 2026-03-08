@@ -1,0 +1,64 @@
+import java.io.*;
+import java.util.*;
+//I was incredibly confused why my own code didn't sovle this problem, as I am pretty posotive it is right,
+//the below code is from AI I'm just curious if it works
+public class Main {
+    static class FastScanner {
+        private final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        private StringTokenizer st;
+
+        String next() throws IOException {
+            while (st == null || !st.hasMoreTokens()) {
+                String line = br.readLine();
+                if (line == null) return null;
+                st = new StringTokenizer(line);
+            }
+            return st.nextToken();
+        }
+
+        int nextInt() throws IOException {
+            return Integer.parseInt(next());
+        }
+    }
+
+    public static void main(String[] args) throws Exception {
+        FastScanner fs = new FastScanner();
+        StringBuilder out = new StringBuilder();
+
+        int T = fs.nextInt();
+
+        while (T-- > 0) {
+            String s = fs.next();
+            String t = fs.next();
+
+            char[] ans = s.toCharArray();
+            int j = 0;
+
+            for (int i = 0; i < ans.length; i++) {
+                if (j < t.length()) {
+                    if (ans[i] == t.charAt(j)) {
+                        j++;
+                    } else if (ans[i] == '?') {
+                        ans[i] = t.charAt(j);
+                        j++;
+                    }
+                } else if (ans[i] == '?') {
+                    ans[i] = 'a';
+                }
+            }
+
+            for (int i = 0; i < ans.length; i++) {
+                if (ans[i] == '?') ans[i] = 'a';
+            }
+
+            if (j == t.length()) {
+                out.append("YES\n");
+                out.append(ans).append('\n');
+            } else {
+                out.append("NO\n");
+            }
+        }
+
+        System.out.print(out);
+    }
+}
