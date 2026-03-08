@@ -1,0 +1,15 @@
+{
+  "submission_id": 365796469,
+  "contest_id": 675940,
+  "problem_index": "F",
+  "problem_name": "Strings Equalization",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1772939888,
+  "original_submission_time_utc": "2026-03-08T03:18:08Z",
+  "imported_at_utc": "2026-11-24T05:38:56Z",
+  "submission_url": "https://codeforces.com/gym/675940/submission/365796469",
+  "problem_url": "https://codeforces.com/gym/675940/problem/F",
+  "source_file": "F_Strings_Equalization.java",
+  "source_sha256": "8f9a6f5bb479142431dedb0b7d7a3e64cf22dee4d20927b4bb4e2a1167f83d8c"
+}
