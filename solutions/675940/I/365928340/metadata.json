@@ -1,0 +1,15 @@
+{
+  "submission_id": 365928340,
+  "contest_id": 675940,
+  "problem_index": "I",
+  "problem_name": "Letters Cyclic Shift",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1773016947,
+  "original_submission_time_utc": "2026-03-09T00:42:27Z",
+  "imported_at_utc": "2026-11-24T05:38:57Z",
+  "submission_url": "https://codeforces.com/gym/675940/submission/365928340",
+  "problem_url": "https://codeforces.com/gym/675940/problem/I",
+  "source_file": "I_Letters_Cyclic_Shift.java",
+  "source_sha256": "f78269116ac0c2002378a13eed903756d0950958838f6418ee5b3ea1f3d81861"
+}
