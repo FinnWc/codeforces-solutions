@@ -1,0 +1,15 @@
+{
+  "submission_id": 366047874,
+  "contest_id": 675940,
+  "problem_index": "M",
+  "problem_name": "Binary Palindromes",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1773096993,
+  "original_submission_time_utc": "2026-03-09T22:56:33Z",
+  "imported_at_utc": "2026-11-24T05:38:57Z",
+  "submission_url": "https://codeforces.com/gym/675940/submission/366047874",
+  "problem_url": "https://codeforces.com/gym/675940/problem/M",
+  "source_file": "M_Binary_Palindromes.java",
+  "source_sha256": "8fe7069944f69bdd873fb9181a2b64efa5709b817537ce48c2b925decb65685d"
+}
