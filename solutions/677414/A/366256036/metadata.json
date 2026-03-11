@@ -1,0 +1,15 @@
+{
+  "submission_id": 366256036,
+  "contest_id": 677414,
+  "problem_index": "A",
+  "problem_name": "Password",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1773239846,
+  "original_submission_time_utc": "2026-03-11T14:37:26Z",
+  "imported_at_utc": "2026-11-24T05:38:58Z",
+  "submission_url": "https://codeforces.com/gym/677414/submission/366256036",
+  "problem_url": "https://codeforces.com/gym/677414/problem/A",
+  "source_file": "A_Password.java",
+  "source_sha256": "805083fc16f07d728237af278bcdc0a9e877a3036f51d1f1a52f5bc4fad57179"
+}
