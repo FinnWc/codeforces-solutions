@@ -1,0 +1,15 @@
+{
+  "submission_id": 366431124,
+  "contest_id": 677414,
+  "problem_index": "C",
+  "problem_name": "Longest Divisors Interval",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1773354251,
+  "original_submission_time_utc": "2026-03-12T22:24:11Z",
+  "imported_at_utc": "2026-11-24T05:38:58Z",
+  "submission_url": "https://codeforces.com/gym/677414/submission/366431124",
+  "problem_url": "https://codeforces.com/gym/677414/problem/C",
+  "source_file": "C_Longest_Divisors_Interval.java",
+  "source_sha256": "27684cfff3f26b1f44563a60ae3cd69ec9c183bb8c7a001052075968437892b0"
+}
