@@ -1,0 +1,15 @@
+{
+  "submission_id": 367954042,
+  "contest_id": 677414,
+  "problem_index": "Q",
+  "problem_name": "Matrix",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1774305832,
+  "original_submission_time_utc": "2026-03-23T22:43:52Z",
+  "imported_at_utc": "2026-11-24T05:39:02Z",
+  "submission_url": "https://codeforces.com/gym/677414/submission/367954042",
+  "problem_url": "https://codeforces.com/gym/677414/problem/Q",
+  "source_file": "Q_Matrix.java",
+  "source_sha256": "ad73642ec5f802228fcf3f969374134e70ef24d05ef34adc8c302198448c0b3e"
+}
