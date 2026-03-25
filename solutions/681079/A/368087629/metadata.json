@@ -1,0 +1,15 @@
+{
+  "submission_id": 368087629,
+  "contest_id": 681079,
+  "problem_index": "A",
+  "problem_name": "Spell Check",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1774400336,
+  "original_submission_time_utc": "2026-03-25T00:58:56Z",
+  "imported_at_utc": "2026-11-24T05:39:02Z",
+  "submission_url": "https://codeforces.com/gym/681079/submission/368087629",
+  "problem_url": "https://codeforces.com/gym/681079/problem/A",
+  "source_file": "A_Spell_Check.java",
+  "source_sha256": "03b6d07e4f13f150d24be872626c065a3d0e97196e3673b80edeb0e6ccbcc8a1"
+}
