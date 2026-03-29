@@ -1,0 +1,15 @@
+{
+  "submission_id": 368790296,
+  "contest_id": 681079,
+  "problem_index": "H",
+  "problem_name": "Rings",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1774822124,
+  "original_submission_time_utc": "2026-03-29T22:08:44Z",
+  "imported_at_utc": "2026-11-24T05:39:04Z",
+  "submission_url": "https://codeforces.com/gym/681079/submission/368790296",
+  "problem_url": "https://codeforces.com/gym/681079/problem/H",
+  "source_file": "H_Rings.java",
+  "source_sha256": "ae3ef737492c22c894f02e602358a7f358ca7fa07a95670311bdc7a8099c79f8"
+}
