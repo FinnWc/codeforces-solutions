@@ -1,0 +1,15 @@
+{
+  "submission_id": 368779332,
+  "contest_id": 681079,
+  "problem_index": "C",
+  "problem_name": "Traffic Light",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1774810710,
+  "original_submission_time_utc": "2026-03-29T18:58:30Z",
+  "imported_at_utc": "2026-11-24T05:39:03Z",
+  "submission_url": "https://codeforces.com/gym/681079/submission/368779332",
+  "problem_url": "https://codeforces.com/gym/681079/problem/C",
+  "source_file": "C_Traffic_Light.java",
+  "source_sha256": "f2c5375a19aeb46ddd456e3a66ef34986853eeedd5887706f9f1f17d20457de7"
+}
