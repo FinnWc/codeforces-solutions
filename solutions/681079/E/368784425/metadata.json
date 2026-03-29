@@ -1,0 +1,15 @@
+{
+  "submission_id": 368784425,
+  "contest_id": 681079,
+  "problem_index": "E",
+  "problem_name": "Diamond Miner",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1774814785,
+  "original_submission_time_utc": "2026-03-29T20:06:25Z",
+  "imported_at_utc": "2026-11-24T05:39:04Z",
+  "submission_url": "https://codeforces.com/gym/681079/submission/368784425",
+  "problem_url": "https://codeforces.com/gym/681079/problem/E",
+  "source_file": "E_Diamond_Miner.java",
+  "source_sha256": "3bf5e79d7aed523e8ab30d0dd921156e3124904c190bb13f6bd6343670ffe406"
+}
