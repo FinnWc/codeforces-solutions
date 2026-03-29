@@ -1,0 +1,15 @@
+{
+  "submission_id": 368791263,
+  "contest_id": 681079,
+  "problem_index": "I",
+  "problem_name": "Factorial Divisibility",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1774824084,
+  "original_submission_time_utc": "2026-03-29T22:41:24Z",
+  "imported_at_utc": "2026-11-24T05:39:05Z",
+  "submission_url": "https://codeforces.com/gym/681079/submission/368791263",
+  "problem_url": "https://codeforces.com/gym/681079/problem/I",
+  "source_file": "I_Factorial_Divisibility.java",
+  "source_sha256": "2210770dd170d5a7ee040d1b4235956a14385b1b1a917c2e6b16127bf6a4181e"
+}
