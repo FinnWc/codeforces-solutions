@@ -1,0 +1,15 @@
+{
+  "submission_id": 368909943,
+  "contest_id": 681079,
+  "problem_index": "K",
+  "problem_name": "Lost Tree",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1774908177,
+  "original_submission_time_utc": "2026-03-30T22:02:57Z",
+  "imported_at_utc": "2026-11-24T05:39:05Z",
+  "submission_url": "https://codeforces.com/gym/681079/submission/368909943",
+  "problem_url": "https://codeforces.com/gym/681079/problem/K",
+  "source_file": "K_Lost_Tree.java",
+  "source_sha256": "7c4ae2caf4f3ba181f482f769d7dec045ffe316708e41e99a995f46b3eac9edf"
+}
