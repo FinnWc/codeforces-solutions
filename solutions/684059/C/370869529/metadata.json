@@ -1,0 +1,15 @@
+{
+  "submission_id": 370869529,
+  "contest_id": 684059,
+  "problem_index": "C",
+  "problem_name": "Consecutive Points Segment",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1776026220,
+  "original_submission_time_utc": "2026-04-12T20:37:00Z",
+  "imported_at_utc": "2026-11-24T05:39:08Z",
+  "submission_url": "https://codeforces.com/gym/684059/submission/370869529",
+  "problem_url": "https://codeforces.com/gym/684059/problem/C",
+  "source_file": "C_Consecutive_Points_Segment.java",
+  "source_sha256": "b1f9102507b9cd1ef56536a42af33f5606662579e26f8f160a1fb8f768e85810"
+}
