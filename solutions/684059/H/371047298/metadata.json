@@ -1,0 +1,15 @@
+{
+  "submission_id": 371047298,
+  "contest_id": 684059,
+  "problem_index": "H",
+  "problem_name": "Pythagorean Triples",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1776106613,
+  "original_submission_time_utc": "2026-04-13T18:56:53Z",
+  "imported_at_utc": "2026-11-24T05:39:09Z",
+  "submission_url": "https://codeforces.com/gym/684059/submission/371047298",
+  "problem_url": "https://codeforces.com/gym/684059/problem/H",
+  "source_file": "H_Pythagorean_Triples.java",
+  "source_sha256": "a55b18c7dfdda207bb278c43b193fef2ea52414c23d297f05404d0ee7bef3677"
+}
