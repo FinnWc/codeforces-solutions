@@ -1,0 +1,15 @@
+{
+  "submission_id": 370878324,
+  "contest_id": 684059,
+  "problem_index": "E",
+  "problem_name": "Mocha and Hiking",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1776041046,
+  "original_submission_time_utc": "2026-04-13T00:44:06Z",
+  "imported_at_utc": "2026-11-24T05:39:08Z",
+  "submission_url": "https://codeforces.com/gym/684059/submission/370878324",
+  "problem_url": "https://codeforces.com/gym/684059/problem/E",
+  "source_file": "E_Mocha_and_Hiking.java",
+  "source_sha256": "bb9e94768c571b48c5cc6fb2e98d29e3598b6f1728cf25bb119faa9362df086a"
+}
