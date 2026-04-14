@@ -1,0 +1,15 @@
+{
+  "submission_id": 371163091,
+  "contest_id": 685710,
+  "problem_index": "A",
+  "problem_name": "Digits Sum",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1776186154,
+  "original_submission_time_utc": "2026-04-14T17:02:34Z",
+  "imported_at_utc": "2026-11-24T05:39:10Z",
+  "submission_url": "https://codeforces.com/gym/685710/submission/371163091",
+  "problem_url": "https://codeforces.com/gym/685710/problem/A",
+  "source_file": "A_Digits_Sum.java",
+  "source_sha256": "5636dffcba2d21c29a10c122c7a591d070181119784ce66efd88918c87fc3ca0"
+}
