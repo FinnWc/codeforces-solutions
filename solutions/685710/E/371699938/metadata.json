@@ -1,0 +1,15 @@
+{
+  "submission_id": 371699938,
+  "contest_id": 685710,
+  "problem_index": "E",
+  "problem_name": "Prefix Sum Primes",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1776546973,
+  "original_submission_time_utc": "2026-04-18T21:16:13Z",
+  "imported_at_utc": "2026-11-24T05:39:11Z",
+  "submission_url": "https://codeforces.com/gym/685710/submission/371699938",
+  "problem_url": "https://codeforces.com/gym/685710/problem/E",
+  "source_file": "E_Prefix_Sum_Primes.java",
+  "source_sha256": "960671ed7fd433333c57820d08743e2325ef3cdc975cef6c7ad9200bc0167edd"
+}
