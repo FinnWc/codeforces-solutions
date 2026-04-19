@@ -1,0 +1,15 @@
+{
+  "submission_id": 371818117,
+  "contest_id": 685710,
+  "problem_index": "K",
+  "problem_name": "Enlarge GCD",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1776636246,
+  "original_submission_time_utc": "2026-04-19T22:04:06Z",
+  "imported_at_utc": "2026-11-24T05:39:12Z",
+  "submission_url": "https://codeforces.com/gym/685710/submission/371818117",
+  "problem_url": "https://codeforces.com/gym/685710/problem/K",
+  "source_file": "K_Enlarge_GCD.java",
+  "source_sha256": "d049a55ae82c56449138d281321ac5de05e423fee0ca30b3669ecaf5d38dfefe"
+}
