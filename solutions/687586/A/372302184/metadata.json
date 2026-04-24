@@ -1,0 +1,15 @@
+{
+  "submission_id": 372302184,
+  "contest_id": 687586,
+  "problem_index": "A",
+  "problem_name": "Parallel Projection",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1776999708,
+  "original_submission_time_utc": "2026-04-24T03:01:48Z",
+  "imported_at_utc": "2026-11-24T05:39:13Z",
+  "submission_url": "https://codeforces.com/gym/687586/submission/372302184",
+  "problem_url": "https://codeforces.com/gym/687586/problem/A",
+  "source_file": "A_Parallel_Projection.java",
+  "source_sha256": "a00a6f39c4ac3acdc84c4ec863a5771dc1ec73c44013d5b95268fb2af0572bec"
+}
