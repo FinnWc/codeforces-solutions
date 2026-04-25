@@ -1,0 +1,15 @@
+{
+  "submission_id": 372538122,
+  "contest_id": 689086,
+  "problem_index": "G",
+  "problem_name": "Median Solve Order",
+  "programming_language": "PyPy 3-64",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1777144438,
+  "original_submission_time_utc": "2026-04-25T19:13:58Z",
+  "imported_at_utc": "2026-11-24T05:39:14Z",
+  "submission_url": "https://codeforces.com/gym/689086/submission/372538122",
+  "problem_url": "https://codeforces.com/gym/689086/problem/G",
+  "source_file": "solution.py",
+  "source_sha256": "963be2ae9d8299f4066762b0d178596cbb5bb4351fa7b2f0888af314c3f5711a"
+}
