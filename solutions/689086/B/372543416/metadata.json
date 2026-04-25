@@ -1,0 +1,15 @@
+{
+  "submission_id": 372543416,
+  "contest_id": 689086,
+  "problem_index": "B",
+  "problem_name": "Six Seven",
+  "programming_language": "PyPy 3-64",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1777148531,
+  "original_submission_time_utc": "2026-04-25T20:22:11Z",
+  "imported_at_utc": "2026-11-24T05:39:14Z",
+  "submission_url": "https://codeforces.com/gym/689086/submission/372543416",
+  "problem_url": "https://codeforces.com/gym/689086/problem/B",
+  "source_file": "solution.py",
+  "source_sha256": "3fd328d1fedd9e81c789dc6d591f8c955854860aa917ed947015bbefb5867c5f"
+}
