@@ -1,0 +1,15 @@
+{
+  "submission_id": 372664790,
+  "contest_id": 687586,
+  "problem_index": "C",
+  "problem_name": "Integer Points",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1777255362,
+  "original_submission_time_utc": "2026-04-27T02:02:42Z",
+  "imported_at_utc": "2026-11-24T05:39:15Z",
+  "submission_url": "https://codeforces.com/gym/687586/submission/372664790",
+  "problem_url": "https://codeforces.com/gym/687586/problem/C",
+  "source_file": "CIntegerPoints.java",
+  "source_sha256": "2bc201fac0e6967e7a3743eb84dd29d151b3a521c1f8b634e9cda206554e1eae"
+}
