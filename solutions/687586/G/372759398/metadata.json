@@ -1,0 +1,15 @@
+{
+  "submission_id": 372759398,
+  "contest_id": 687586,
+  "problem_index": "G",
+  "problem_name": "Inscribed Figures",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1777329886,
+  "original_submission_time_utc": "2026-04-27T22:44:46Z",
+  "imported_at_utc": "2026-11-24T05:39:16Z",
+  "submission_url": "https://codeforces.com/gym/687586/submission/372759398",
+  "problem_url": "https://codeforces.com/gym/687586/problem/G",
+  "source_file": "GInscribedFigures.java",
+  "source_sha256": "936d9b5403da77b82189e39f0e50c1efc98f46b0303a7ab87239b6f5736b1f7f"
+}
