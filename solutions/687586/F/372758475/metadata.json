@@ -1,0 +1,15 @@
+{
+  "submission_id": 372758475,
+  "contest_id": 687586,
+  "problem_index": "F",
+  "problem_name": "Shawarma Tent",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1777327918,
+  "original_submission_time_utc": "2026-04-27T22:11:58Z",
+  "imported_at_utc": "2026-11-24T05:39:16Z",
+  "submission_url": "https://codeforces.com/gym/687586/submission/372758475",
+  "problem_url": "https://codeforces.com/gym/687586/problem/F",
+  "source_file": "FShawarmaTent.java",
+  "source_sha256": "545e5d62d15f92a829ad592f617b284f54f78088e883642be65e993b7723449a"
+}
