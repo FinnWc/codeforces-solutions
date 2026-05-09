@@ -1,0 +1,15 @@
+{
+  "submission_id": 373963376,
+  "contest_id": 690834,
+  "problem_index": "A",
+  "problem_name": "Phone Desktop",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1778289280,
+  "original_submission_time_utc": "2026-05-09T01:14:40Z",
+  "imported_at_utc": "2026-11-24T05:39:17Z",
+  "submission_url": "https://codeforces.com/gym/690834/submission/373963376",
+  "problem_url": "https://codeforces.com/gym/690834/problem/A",
+  "source_file": "APhoneDesktop.java",
+  "source_sha256": "14fbf33343012c68cfba7b3694d70325242cd8c4ca401ed6d0ae0272dfc4a59a"
+}
