@@ -1,0 +1,15 @@
+{
+  "submission_id": 373964399,
+  "contest_id": 690834,
+  "problem_index": "B",
+  "problem_name": "Chess For Three",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1778291611,
+  "original_submission_time_utc": "2026-05-09T01:53:31Z",
+  "imported_at_utc": "2026-11-24T05:39:17Z",
+  "submission_url": "https://codeforces.com/gym/690834/submission/373964399",
+  "problem_url": "https://codeforces.com/gym/690834/problem/B",
+  "source_file": "BChessForThree.java",
+  "source_sha256": "b9dd8e26db04bdf6da194c9162742dbb4307e1a886274a62c7edae888a1f4a0a"
+}
