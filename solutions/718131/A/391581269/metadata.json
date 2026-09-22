@@ -1,0 +1,15 @@
+{
+  "submission_id": 391581269,
+  "contest_id": 718131,
+  "problem_index": "A",
+  "problem_name": "Word on the Paper",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1790037899,
+  "original_submission_time_utc": "2026-09-22T00:44:59Z",
+  "imported_at_utc": "2026-11-24T05:39:18Z",
+  "submission_url": "https://codeforces.com/gym/718131/submission/391581269",
+  "problem_url": "https://codeforces.com/gym/718131/problem/A",
+  "source_file": "AWordOnThePaper.java",
+  "source_sha256": "6d428eb75babe35f33b1b9ea89bc5b4708f2436aefcc157e22d953cafcf96d81"
+}
