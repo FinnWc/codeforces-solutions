@@ -1,0 +1,15 @@
+{
+  "submission_id": 391804825,
+  "contest_id": 718132,
+  "problem_index": "B",
+  "problem_name": "Fence",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1790183404,
+  "original_submission_time_utc": "2026-09-23T17:10:04Z",
+  "imported_at_utc": "2026-11-24T05:39:19Z",
+  "submission_url": "https://codeforces.com/gym/718132/submission/391804825",
+  "problem_url": "https://codeforces.com/gym/718132/problem/B",
+  "source_file": "BFence.java",
+  "source_sha256": "5d0b51030266017f39c683821257a0ff66548936215467513dcaec7f311ee3e6"
+}
