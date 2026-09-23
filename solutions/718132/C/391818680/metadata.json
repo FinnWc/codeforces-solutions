@@ -1,0 +1,15 @@
+{
+  "submission_id": 391818680,
+  "contest_id": 718132,
+  "problem_index": "C",
+  "problem_name": "Kuriyama Mirai's Stones",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1790192144,
+  "original_submission_time_utc": "2026-09-23T19:35:44Z",
+  "imported_at_utc": "2026-11-24T05:39:19Z",
+  "submission_url": "https://codeforces.com/gym/718132/submission/391818680",
+  "problem_url": "https://codeforces.com/gym/718132/problem/C",
+  "source_file": "CKuriyamaMiraiSStones.java",
+  "source_sha256": "75e597810c4990c3ad05d4c930c109fd0af089ffe44c95f7bc38adf9f2915b04"
+}
