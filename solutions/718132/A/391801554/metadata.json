@@ -1,0 +1,15 @@
+{
+  "submission_id": 391801554,
+  "contest_id": 718132,
+  "problem_index": "A",
+  "problem_name": "Even Substrings",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1790181694,
+  "original_submission_time_utc": "2026-09-23T16:41:34Z",
+  "imported_at_utc": "2026-11-24T05:39:18Z",
+  "submission_url": "https://codeforces.com/gym/718132/submission/391801554",
+  "problem_url": "https://codeforces.com/gym/718132/problem/A",
+  "source_file": "AEvenSubstrings.java",
+  "source_sha256": "2570681da782e3c395e6f16b557ef8f310595bcc0f5c284a0a51828f2b0fb75a"
+}
