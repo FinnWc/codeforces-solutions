@@ -1,0 +1,15 @@
+{
+  "submission_id": 391831780,
+  "contest_id": 718132,
+  "problem_index": "D",
+  "problem_name": "Books",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1790216398,
+  "original_submission_time_utc": "2026-09-24T02:19:58Z",
+  "imported_at_utc": "2026-11-24T05:39:19Z",
+  "submission_url": "https://codeforces.com/gym/718132/submission/391831780",
+  "problem_url": "https://codeforces.com/gym/718132/problem/D",
+  "source_file": "DBooks.java",
+  "source_sha256": "50388419328389f249630d2dd85eed844b2d5f7eb5e0d4c663ca46c5fb39c5d2"
+}
