@@ -1,0 +1,15 @@
+{
+  "submission_id": 391832023,
+  "contest_id": 2266,
+  "problem_index": "A",
+  "problem_name": "Good Contest",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1790216913,
+  "original_submission_time_utc": "2026-09-24T02:28:33Z",
+  "imported_at_utc": "2026-11-24T05:39:20Z",
+  "submission_url": "https://codeforces.com/contest/2266/submission/391832023",
+  "problem_url": "https://codeforces.com/contest/2266/problem/A",
+  "source_file": "AGoodContest.java",
+  "source_sha256": "a88b578653d3ce5511872bbddec312345af71ee41cbbfded8819de3b2522712e"
+}
