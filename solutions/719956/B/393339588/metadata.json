@@ -1,0 +1,15 @@
+{
+  "submission_id": 393339588,
+  "contest_id": 719956,
+  "problem_index": "B",
+  "problem_name": "BerSU Ball",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1791236560,
+  "original_submission_time_utc": "2026-10-05T21:42:40Z",
+  "imported_at_utc": "2026-11-24T05:39:20Z",
+  "submission_url": "https://codeforces.com/gym/719956/submission/393339588",
+  "problem_url": "https://codeforces.com/gym/719956/problem/B",
+  "source_file": "BBersuBall.java",
+  "source_sha256": "c39849bebe7fb39bedf507081c225fb1cc7c462f7167c4b2ee18722cb2d82f41"
+}
