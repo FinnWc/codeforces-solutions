@@ -1,0 +1,15 @@
+{
+  "submission_id": 393343956,
+  "contest_id": 721962,
+  "problem_index": "A",
+  "problem_name": "Equal or Not Equal",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1791247449,
+  "original_submission_time_utc": "2026-10-06T00:44:09Z",
+  "imported_at_utc": "2026-11-24T05:39:21Z",
+  "submission_url": "https://codeforces.com/gym/721962/submission/393343956",
+  "problem_url": "https://codeforces.com/gym/721962/problem/A",
+  "source_file": "AEqualOrNotEqual.java",
+  "source_sha256": "b04b0f33a1feb7bcddf9322d1dc500b9a54a6b5de96c2d386038c794213a77d2"
+}
