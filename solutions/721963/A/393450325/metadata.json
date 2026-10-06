@@ -1,0 +1,15 @@
+{
+  "submission_id": 393450325,
+  "contest_id": 721963,
+  "problem_index": "A",
+  "problem_name": "Metro",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1791325097,
+  "original_submission_time_utc": "2026-10-06T22:18:17Z",
+  "imported_at_utc": "2026-11-24T05:39:21Z",
+  "submission_url": "https://codeforces.com/gym/721963/submission/393450325",
+  "problem_url": "https://codeforces.com/gym/721963/problem/A",
+  "source_file": "AMetro.java",
+  "source_sha256": "7b5bfe6419d1ab04488cfdf7c29b02d06ab485033a3bda53a779ed098c190365"
+}
