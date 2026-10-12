@@ -1,0 +1,15 @@
+{
+  "submission_id": 394332257,
+  "contest_id": 721963,
+  "problem_index": "C",
+  "problem_name": "Secret Passwords",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1791840475,
+  "original_submission_time_utc": "2026-10-12T21:27:55Z",
+  "imported_at_utc": "2026-11-24T05:39:21Z",
+  "submission_url": "https://codeforces.com/gym/721963/submission/394332257",
+  "problem_url": "https://codeforces.com/gym/721963/problem/C",
+  "source_file": "CSecretPasswords.java",
+  "source_sha256": "ac2c09525d2651ffd92dd5ce57e5a754b7a6e85986354293a1a1547a3fc82395"
+}
