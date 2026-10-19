@@ -1,0 +1,15 @@
+{
+  "submission_id": 395274793,
+  "contest_id": 723937,
+  "problem_index": "C",
+  "problem_name": "Menorah",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1792442419,
+  "original_submission_time_utc": "2026-10-19T20:40:19Z",
+  "imported_at_utc": "2026-11-24T05:39:23Z",
+  "submission_url": "https://codeforces.com/gym/723937/submission/395274793",
+  "problem_url": "https://codeforces.com/gym/723937/problem/C",
+  "source_file": "CMenorah.java",
+  "source_sha256": "b84864b26aec4afaacc7b8ae4e75286c43ecec5ee70bd2eaa91704671c159f23"
+}
