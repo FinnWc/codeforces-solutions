@@ -1,0 +1,15 @@
+{
+  "submission_id": 395278788,
+  "contest_id": 723937,
+  "problem_index": "D",
+  "problem_name": "Tree Reconstruction",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1792447295,
+  "original_submission_time_utc": "2026-10-19T22:01:35Z",
+  "imported_at_utc": "2026-11-24T05:39:23Z",
+  "submission_url": "https://codeforces.com/gym/723937/submission/395278788",
+  "problem_url": "https://codeforces.com/gym/723937/problem/D",
+  "source_file": "DTreeReconstruction.java",
+  "source_sha256": "627f8636389aa0d642fd4be3cb249612144f31e4605e5959d80d0f35a345456d"
+}
