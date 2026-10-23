@@ -1,0 +1,15 @@
+{
+  "submission_id": 395767678,
+  "contest_id": 725786,
+  "problem_index": "A",
+  "problem_name": "Zero Sum",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1792788704,
+  "original_submission_time_utc": "2026-10-23T20:51:44Z",
+  "imported_at_utc": "2026-11-24T05:39:23Z",
+  "submission_url": "https://codeforces.com/gym/725786/submission/395767678",
+  "problem_url": "https://codeforces.com/gym/725786/problem/A",
+  "source_file": "AZeroSum.java",
+  "source_sha256": "f1ac2ab5f5ef039727ac5a0c9964a777370f1b45e4bdf2766ecd6eefb0803797"
+}
