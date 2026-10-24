@@ -1,0 +1,15 @@
+{
+  "submission_id": 395916565,
+  "contest_id": 727189,
+  "problem_index": "L",
+  "problem_name": "Subway Anagram",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1792872352,
+  "original_submission_time_utc": "2026-10-24T20:05:52Z",
+  "imported_at_utc": "2026-11-24T05:39:24Z",
+  "submission_url": "https://codeforces.com/gym/727189/submission/395916565",
+  "problem_url": "https://codeforces.com/gym/727189/problem/L",
+  "source_file": "LSubwayAnagram.java",
+  "source_sha256": "4075f48c98a1f4dff6a4b6c2e24d879069e771923d4729f13732ed3c0e39a7a2"
+}
