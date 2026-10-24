@@ -1,0 +1,15 @@
+{
+  "submission_id": 395905616,
+  "contest_id": 727189,
+  "problem_index": "D",
+  "problem_name": "Grace Period",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1792865750,
+  "original_submission_time_utc": "2026-10-24T18:15:50Z",
+  "imported_at_utc": "2026-11-24T05:39:24Z",
+  "submission_url": "https://codeforces.com/gym/727189/submission/395905616",
+  "problem_url": "https://codeforces.com/gym/727189/problem/D",
+  "source_file": "DGracePeriod.java",
+  "source_sha256": "6d572cd43730c65ba11cb52bebcd01a9d741eb55107e3678cd7db1b4ae2c1237"
+}
