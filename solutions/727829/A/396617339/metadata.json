@@ -1,0 +1,15 @@
+{
+  "submission_id": 396617339,
+  "contest_id": 727829,
+  "problem_index": "A",
+  "problem_name": "Potions (Easy Version)",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793303627,
+  "original_submission_time_utc": "2026-10-29T19:53:47Z",
+  "imported_at_utc": "2026-11-24T05:39:24Z",
+  "submission_url": "https://codeforces.com/gym/727829/submission/396617339",
+  "problem_url": "https://codeforces.com/gym/727829/problem/A",
+  "source_file": "APotionsEasyVersion.java",
+  "source_sha256": "d0a7123c17d8f0ca538c88a06ec97806f681c6846f63d2d594b3d3d2d8a06d6c"
+}
