@@ -1,0 +1,15 @@
+{
+  "submission_id": 397171536,
+  "contest_id": 727829,
+  "problem_index": "D",
+  "problem_name": "Math Division",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793659590,
+  "original_submission_time_utc": "2026-11-02T22:46:30Z",
+  "imported_at_utc": "2026-11-24T05:39:25Z",
+  "submission_url": "https://codeforces.com/gym/727829/submission/397171536",
+  "problem_url": "https://codeforces.com/gym/727829/problem/D",
+  "source_file": "DMathDivision.java",
+  "source_sha256": "c5f10a5fca520b428de027e447549b9f2a8b7621348cc775536dff8f00b0e22b"
+}
