@@ -1,0 +1,15 @@
+{
+  "submission_id": 397181839,
+  "contest_id": 522,
+  "problem_index": "A",
+  "problem_name": "Reposts",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793675195,
+  "original_submission_time_utc": "2026-11-03T03:06:35Z",
+  "imported_at_utc": "2026-11-24T05:39:26Z",
+  "submission_url": "https://codeforces.com/contest/522/submission/397181839",
+  "problem_url": "https://codeforces.com/contest/522/problem/A",
+  "source_file": "AReposts.java",
+  "source_sha256": "ae978d69fe1a9a918b05c16379b93aa24f508c44cc02c26bbcb606961301ff7a"
+}
