@@ -1,0 +1,15 @@
+{
+  "submission_id": 397186462,
+  "contest_id": 115,
+  "problem_index": "A",
+  "problem_name": "Party",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793679628,
+  "original_submission_time_utc": "2026-11-03T04:20:28Z",
+  "imported_at_utc": "2026-11-24T05:39:26Z",
+  "submission_url": "https://codeforces.com/contest/115/submission/397186462",
+  "problem_url": "https://codeforces.com/contest/115/problem/A",
+  "source_file": "AParty.java",
+  "source_sha256": "2852bd440e15e42e4b6a684edcbf684657b0323ea9959e5f0f8a2630bd6261cb"
+}
