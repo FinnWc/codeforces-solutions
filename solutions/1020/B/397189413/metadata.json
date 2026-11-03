@@ -1,0 +1,15 @@
+{
+  "submission_id": 397189413,
+  "contest_id": 1020,
+  "problem_index": "B",
+  "problem_name": "Badge",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793682967,
+  "original_submission_time_utc": "2026-11-03T05:16:07Z",
+  "imported_at_utc": "2026-11-24T05:39:26Z",
+  "submission_url": "https://codeforces.com/contest/1020/submission/397189413",
+  "problem_url": "https://codeforces.com/contest/1020/problem/B",
+  "source_file": "BBadge.java",
+  "source_sha256": "7410b6d4b11f7fad79de2a8fda090badaf10d1ea918b6bcaa1ca2110ab5ad7ea"
+}
