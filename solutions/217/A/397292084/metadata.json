@@ -1,0 +1,15 @@
+{
+  "submission_id": 397292084,
+  "contest_id": 217,
+  "problem_index": "A",
+  "problem_name": "Ice Skating",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793766652,
+  "original_submission_time_utc": "2026-11-04T04:30:52Z",
+  "imported_at_utc": "2026-11-24T05:39:26Z",
+  "submission_url": "https://codeforces.com/contest/217/submission/397292084",
+  "problem_url": "https://codeforces.com/contest/217/problem/A",
+  "source_file": "AIceSkating.java",
+  "source_sha256": "9409a866baac5b20a204b03368afc469179ab4f4f83e368450d1e7e0a50dd750"
+}
