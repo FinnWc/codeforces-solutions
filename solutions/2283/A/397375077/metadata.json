@@ -1,0 +1,15 @@
+{
+  "submission_id": 397375077,
+  "contest_id": 2283,
+  "problem_index": "A",
+  "problem_name": "Numbers on the Board",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793806880,
+  "original_submission_time_utc": "2026-11-04T15:41:20Z",
+  "imported_at_utc": "2026-11-24T05:39:27Z",
+  "submission_url": "https://codeforces.com/contest/2283/submission/397375077",
+  "problem_url": "https://codeforces.com/contest/2283/problem/A",
+  "source_file": "ANumbersOnTheBoard.java",
+  "source_sha256": "ceeb02f839eaa9575aaa10457e960353e2c3bf2b8b14e7ca55687ebe541b5894"
+}
