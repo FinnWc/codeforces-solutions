@@ -1,0 +1,15 @@
+{
+  "submission_id": 397517248,
+  "contest_id": 977,
+  "problem_index": "C",
+  "problem_name": "Less or Equal",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1793907861,
+  "original_submission_time_utc": "2026-11-05T19:44:21Z",
+  "imported_at_utc": "2026-11-24T05:39:27Z",
+  "submission_url": "https://codeforces.com/contest/977/submission/397517248",
+  "problem_url": "https://codeforces.com/contest/977/problem/C",
+  "source_file": "CLessOrEqual.java",
+  "source_sha256": "184b49a3221248d233d5802e305c1b5347c3c07cae35e35dea86b44e01eca26e"
+}
