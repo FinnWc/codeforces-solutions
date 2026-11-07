@@ -1,0 +1,15 @@
+{
+  "submission_id": 397746936,
+  "contest_id": 2280,
+  "problem_index": "A",
+  "problem_name": "Are They the Same?",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1794063521,
+  "original_submission_time_utc": "2026-11-07T14:58:41Z",
+  "imported_at_utc": "2026-11-24T05:39:28Z",
+  "submission_url": "https://codeforces.com/contest/2280/submission/397746936",
+  "problem_url": "https://codeforces.com/contest/2280/problem/A",
+  "source_file": "AAreTheyTheSame.java",
+  "source_sha256": "24be0f08d898a4b8001266f13c057e5350bbc19afd59d3c3826bc1684e5d1dfa"
+}
