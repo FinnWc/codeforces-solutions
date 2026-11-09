@@ -1,0 +1,15 @@
+{
+  "submission_id": 397976126,
+  "contest_id": 706,
+  "problem_index": "B",
+  "problem_name": "Interesting drink",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1794257688,
+  "original_submission_time_utc": "2026-11-09T20:54:48Z",
+  "imported_at_utc": "2026-11-24T05:39:28Z",
+  "submission_url": "https://codeforces.com/contest/706/submission/397976126",
+  "problem_url": "https://codeforces.com/contest/706/problem/B",
+  "source_file": "BInterestingDrink.java",
+  "source_sha256": "ff4a3cbf5e20eef2fa0933f015f3cfb215c6e80d5933964fd13ecdd941eaab44"
+}
