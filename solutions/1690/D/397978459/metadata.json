@@ -1,0 +1,15 @@
+{
+  "submission_id": 397978459,
+  "contest_id": 1690,
+  "problem_index": "D",
+  "problem_name": "Black and White Stripe",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1794261525,
+  "original_submission_time_utc": "2026-11-09T21:58:45Z",
+  "imported_at_utc": "2026-11-24T05:39:29Z",
+  "submission_url": "https://codeforces.com/contest/1690/submission/397978459",
+  "problem_url": "https://codeforces.com/contest/1690/problem/D",
+  "source_file": "DBlackAndWhiteStripe.java",
+  "source_sha256": "a5a2b382d02ce21cc968ecb394f085fedfb58b42506c3789883b1829de369219"
+}
