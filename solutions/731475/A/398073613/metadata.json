@@ -1,0 +1,15 @@
+{
+  "submission_id": 398073613,
+  "contest_id": 731475,
+  "problem_index": "A",
+  "problem_name": "Distinct Characters Queries",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1794339359,
+  "original_submission_time_utc": "2026-11-10T19:35:59Z",
+  "imported_at_utc": "2026-11-24T05:39:29Z",
+  "submission_url": "https://codeforces.com/gym/731475/submission/398073613",
+  "problem_url": "https://codeforces.com/gym/731475/problem/A",
+  "source_file": "ADistinctCharactersQueries.java",
+  "source_sha256": "3845b3cff26e60a52cdedc1cceaa04f4f6130a3e3787b346157ebe6df50d9903"
+}
