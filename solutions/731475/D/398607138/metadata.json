@@ -1,0 +1,15 @@
+{
+  "submission_id": 398607138,
+  "contest_id": 731475,
+  "problem_index": "D",
+  "problem_name": "Copying Data",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1794707470,
+  "original_submission_time_utc": "2026-11-15T01:51:10Z",
+  "imported_at_utc": "2026-11-24T05:39:30Z",
+  "submission_url": "https://codeforces.com/gym/731475/submission/398607138",
+  "problem_url": "https://codeforces.com/gym/731475/problem/D",
+  "source_file": "DCopyingData.java",
+  "source_sha256": "1f021708469a443d9d495a37c066880c9d63cce94c07f6397d1b6edcec7468ed"
+}
