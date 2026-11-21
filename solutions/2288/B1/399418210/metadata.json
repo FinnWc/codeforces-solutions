@@ -1,0 +1,15 @@
+{
+  "submission_id": 399418210,
+  "contest_id": 2288,
+  "problem_index": "B1",
+  "problem_name": "Yukari Yakumo and the Boundary Stones (Easy Version)",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1795304651,
+  "original_submission_time_utc": "2026-11-21T23:44:11Z",
+  "imported_at_utc": "2026-11-24T05:39:30Z",
+  "submission_url": "https://codeforces.com/contest/2288/submission/399418210",
+  "problem_url": "https://codeforces.com/contest/2288/problem/B1",
+  "source_file": "B1YukariYakumoAndTheBoundaryStonesEasyVersion.java",
+  "source_sha256": "cd5c93eff8bd80bb2455711462ec2f5c8500ac14fbd82793bc3d2cd5ebf7d3ae"
+}
