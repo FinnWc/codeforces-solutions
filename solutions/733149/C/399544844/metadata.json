@@ -1,0 +1,15 @@
+{
+  "submission_id": 399544844,
+  "contest_id": 733149,
+  "problem_index": "C",
+  "problem_name": "Password",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1795372165,
+  "original_submission_time_utc": "2026-11-22T18:29:25Z",
+  "imported_at_utc": "2026-11-24T05:39:31Z",
+  "submission_url": "https://codeforces.com/gym/733149/submission/399544844",
+  "problem_url": "https://codeforces.com/gym/733149/problem/C",
+  "source_file": "CPassword.java",
+  "source_sha256": "c76f93985754e4c0ed0f4d8d32edfa9102263f2063529f6de6d5c57463c61f13"
+}
