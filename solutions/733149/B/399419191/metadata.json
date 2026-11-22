@@ -1,0 +1,15 @@
+{
+  "submission_id": 399419191,
+  "contest_id": 733149,
+  "problem_index": "B",
+  "problem_name": "Product of Three Numbers",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1795307787,
+  "original_submission_time_utc": "2026-11-22T00:36:27Z",
+  "imported_at_utc": "2026-11-24T05:39:30Z",
+  "submission_url": "https://codeforces.com/gym/733149/submission/399419191",
+  "problem_url": "https://codeforces.com/gym/733149/problem/B",
+  "source_file": "BProductOfThreeNumbers.java",
+  "source_sha256": "d76a2482f01cbf1d78348116e7bc6be24628cb53c5b8e2a65b6c2442829b7e62"
+}
