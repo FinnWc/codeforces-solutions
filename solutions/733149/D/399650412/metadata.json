@@ -1,0 +1,15 @@
+{
+  "submission_id": 399650412,
+  "contest_id": 733149,
+  "problem_index": "D",
+  "problem_name": "Prefixes and Suffixes",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1795474111,
+  "original_submission_time_utc": "2026-11-23T22:48:31Z",
+  "imported_at_utc": "2026-11-24T05:39:31Z",
+  "submission_url": "https://codeforces.com/gym/733149/submission/399650412",
+  "problem_url": "https://codeforces.com/gym/733149/problem/D",
+  "source_file": "Main.java",
+  "source_sha256": "6d795a3d7bf071186dc275d6638b341e7253fb970f068ad7846a45e354447beb"
+}
