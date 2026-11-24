@@ -1,0 +1,15 @@
+{
+  "submission_id": 399655491,
+  "contest_id": 735319,
+  "problem_index": "A",
+  "problem_name": "Gregor and the Pawn Game",
+  "programming_language": "Java 21",
+  "verdict_at_import": "OK",
+  "creation_time_seconds": 1795486186,
+  "original_submission_time_utc": "2026-11-24T02:09:46Z",
+  "imported_at_utc": "2026-11-24T05:39:31Z",
+  "submission_url": "https://codeforces.com/gym/735319/submission/399655491",
+  "problem_url": "https://codeforces.com/gym/735319/problem/A",
+  "source_file": "AGregorAndThePawnGame.java",
+  "source_sha256": "919c1dc93783abb700d13fb245234d2fccfba762b4a651c67ece664f5990042b"
+}
